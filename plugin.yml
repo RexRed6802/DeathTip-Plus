@@ -1,0 +1,6 @@
+name: DeathTip
+main: DeathTip\DeathTip
+version: 1.0
+api: [1.12.0]
+load: STARTUP
+author: RexRed6802
